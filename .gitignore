@@ -1,5 +1,5 @@
-# Data files
-*.csv
+# Data files (commented out for LFS)
+# *.csv
 *.xlsx
 *.xls
 
